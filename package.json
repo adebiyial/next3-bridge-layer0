@@ -12,5 +12,8 @@
     "core-js": "^3.15.1",
     "nuxt": "^2.15.7"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@layer0/cli": "^3.17.3",
+    "@layer0/core": "^3.17.3"
+  }
 }
